@@ -1,0 +1,41 @@
+.bmw {
+    transition: transform 0.2s ease;
+    
+  }
+  
+  .bmw:hover {
+    transform: scale(1.1);
+  }
+
+.img1 {
+    transition: transform 0.2s ease;
+  }
+  
+  .img1:hover {
+    transform: scale(1.1);
+  }
+
+  .img2 {
+    transition: transform 0.2s ease;
+  }
+  
+  .img2:hover {
+    transform: scale(1.1);
+  }
+
+  .img3 {
+    transition: transform 0.2s ease;
+  }
+  
+  .img3:hover {
+    transform: scale(1.1);
+  }
+
+  .img4 {
+    transition: transform 0.2s ease;
+  }
+  
+  .img4:hover {
+    transform: scale(1.1);
+  }
+ 
